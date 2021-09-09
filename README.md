@@ -1,2 +1,2 @@
-# Belajar-Github
-Pembelajaran 
+# Tutor wpu resolusi
+Repository untuk menyimpan rencana WPU kedepannya

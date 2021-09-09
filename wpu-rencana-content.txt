@@ -1,13 +1,20 @@
 RENCANA KONTEN WPU
 
 - Javascript
-* ES6
-* Framework Javascript
-^ Vue
-^ React
+  * ES6
+  * Framework Javascript
+    ^ Vue
+    ^ React   
 - Struktur data dasar
 - PHP Framework
-^ Laravel
+  ^ CI
+  ^ Laravel
 - Interview
 - Vlogs
 - Phyton
+- Flutter
+- React Native
+- Software Design 
+  ^ Figma
+  ^ Affinity Designer
+  ^ Affinity Photo
